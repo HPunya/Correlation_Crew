@@ -8,7 +8,7 @@ Anvesham June Hackathon 2025
 **Video Presentation:**
 https://drive.google.com/file/d/1He2HI8DfMpU2razd-lVhvpxG5e9FAsU9/view?usp=sharing
 
-Key Features & Technologies Used
+**Key Features & Technologies Used**
 
 **Features:**
 
