@@ -23,7 +23,7 @@ Create a models/ folder and add:
 model.pkl – trained Logistic Regression model
 vectorizer.pkl – fitted TF-IDF vectorizer
 
-**4. Run the Application: **
+**4. Run the Application:**
 streamlit run app.py
 
 **5. Use the Web Interface**
