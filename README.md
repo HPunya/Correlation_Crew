@@ -9,18 +9,23 @@ Anvesham June Hackathon 2025
 https://drive.google.com/file/d/1He2HI8DfMpU2razd-lVhvpxG5e9FAsU9/view?usp=sharing
 
 **Step by Step instructions:**
+
 **1. Clone the Repository:**
 git clone https://github.com/your-username/fake-job-detector.git
 cd fake-job-detector
+
 **2. Install Dependencies:**
 Make sure you have Python 3.8+ installed, then run:
 pip install -r requirements.txt
+
 **3. Prepare Model Directory**
 Create a models/ folder and add:
 model.pkl – trained Logistic Regression model
 vectorizer.pkl – fitted TF-IDF vectorizer
+
 **4. Run the Application: **
 streamlit run app.py
+
 **5. Use the Web Interface**
 Upload training data to train a model (or skip if already trained)
 Upload test data to see predictions and visual insights
