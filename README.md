@@ -24,7 +24,8 @@ model.pkl – trained Logistic Regression model
 vectorizer.pkl – fitted TF-IDF vectorizer
 
 **4. Run the Application:**
-streamlit run app.py
+Run the command: 
+'streamlit run app.py' on the terminal
 
 **5. Use the Web Interface**
 Upload training data to train a model (or skip if already trained)
