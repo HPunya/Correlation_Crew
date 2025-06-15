@@ -32,7 +32,7 @@ https://drive.google.com/file/d/1He2HI8DfMpU2razd-lVhvpxG5e9FAsU9/view?usp=shari
 **Step by Step instructions:**
 
 **1. Clone the Repository:**
-git clone https://github.com/your-username/fake-job-detector.git
+git clone https://github.com/your-username/fake-job-detector.git](https://github.com/HPunya/Correlation_Crew.git
 cd fake-job-detector
 
 **2. Install Dependencies:**
