@@ -8,6 +8,27 @@ Anvesham June Hackathon 2025
 **Video Presentation:**
 https://drive.google.com/file/d/1He2HI8DfMpU2razd-lVhvpxG5e9FAsU9/view?usp=sharing
 
+Key Features & Technologies Used
+
+**Features:**
+
+- Upload training/test job listings as CSV
+- Train a logistic regression model with text data
+- Predict fraud risk with probability scores
+- SHAP explainability plots
+- WordCloud of suspicious job descriptions
+- Single-job prediction form for manual input
+- Visual charts (Pie, Histogram)
+
+**Technologies:**
+- Python
+- Streamlit (Web UI)
+- Pandas, NumPy (Data Handling)
+- scikit-learn (ML model & TF-IDF)
+- SHAP (Model explainability)
+- Plotly, Matplotlib (Visualization)
+- WordCloud
+
 **Step by Step instructions:**
 
 **1. Clone the Repository:**
