@@ -37,7 +37,7 @@ cd fake-job-detector
 
 **2. Install Dependencies:**
 Make sure you have Python 3.8+ installed, then run:
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 **3. Prepare Model Directory**
 Create a models/ folder and add:
